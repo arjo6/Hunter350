@@ -12,7 +12,7 @@ Hunter350 is an advanced network scanning tool that detects active devices on a 
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/Hunter350.git
+   git clone https://github.com/arjo6/Hunter350.git
    cd Hunter350
    ```
 
